@@ -1,4 +1,4 @@
-#DjurSafe
+# DjurSafe
 
 A pet-friendly app to check water quality near you and find safe swimming spots for your furry friends.
 
