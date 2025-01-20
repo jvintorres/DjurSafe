@@ -9,17 +9,6 @@
 A pet-friendly app to check water quality near you and find safe swimming spots for your furry friends.
 
 
-
-## Table of Contents
-About the Project
-Getting Started
-Usage
-Features
-Contributing
-License
-Acknowledgments
-
-
 ---
 
 ## About the Project
