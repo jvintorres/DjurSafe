@@ -12,7 +12,7 @@ A pet-friendly app to check water quality near you and find safe swimming spots 
 ---
 
 ## About the Project
-With a simple address input, DjurSafe checks recent water quality data for harmful conditions using Google Earth Engine and AquaSat APIs. It  provides recommendations for alternative swimming spots nearby using the Google Places API. DjurSafe is perfect for pet owners who want peace of mind during their adventures.
+From a simple address input, DjurSafe checks recent water quality data for harmful conditions using Google Earth Engine and AquaSat APIs. It  provides recommendations for alternative swimming spots nearby using the Google Places API. DjurSafe is perfect for pet owners who want peace of mind during their adventures.
 
 ---
 
