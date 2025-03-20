@@ -1,13 +1,11 @@
 # DjurSafe
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/cajjster/lunch_box_planner.svg)](https://github.com/cajjster/lunch_box_planner/stargazers)
-[![Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://your-live-demo-link.com)
-
 ---
 
 A pet-friendly app to check water quality near you and find safe swimming spots for your furry friends.
 
+
+![DjurSafe](DjurSafe_Image.png)
 
 ---
 
