@@ -41,11 +41,11 @@ pip install -r requirements.txt
 
 ## Features
 
-🐶 Pet-focused: Designed with your furry friends in mind.
-🌊 Water Quality Insights: Uses NASA and AquaSat data to check recent water conditions.
-📍 Geocoding: Converts user-provided addresses into coordinates with OpenCage.
-🏖️ Nearby Alternatives: Lists up to 5 beaches within a 5 km radius for safe swimming.
-🖼️ User-Friendly Interface: Built with a clean, modern Tkinter GUI.
+- Pet-focused: Designed with your furry friends in mind.
+- Water Quality Insights: Uses NASA and AquaSat data to check recent water conditions.
+- Geocoding: Converts user-provided addresses into coordinates with OpenCage.
+- Nearby Alternatives: Lists up to 5 beaches within a 5 km radius for safe swimming.
+- User-Friendly Interface: Built with a clean, modern Tkinter GUI.
 
 ## Contributing
 
